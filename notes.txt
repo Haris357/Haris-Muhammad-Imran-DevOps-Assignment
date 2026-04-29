@@ -1,0 +1,16 @@
+Personal Notes - Activity 1
+============================
+
+1. Created a new GitHub repository.
+2. Created a project folder on the local machine.
+3. Initialised an empty Git repository inside the folder (git init).
+4. Added three tracked files: app.txt, notes.txt, readme.md.
+5. Performed the standard Git workflow:
+      git status -> git add . -> git commit -m "..."
+6. Modified one file and produced a second commit to show history.
+7. Connected the local repo to GitHub (git remote add origin ...) and pushed.
+
+Key takeaways:
+- Every commit captures a snapshot of the working tree.
+- "git log" shows the full commit history that the assignment requires.
+- A clean working tree (nothing to commit) means everything is safely tracked.

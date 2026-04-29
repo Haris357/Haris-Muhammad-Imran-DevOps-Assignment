@@ -1,0 +1,9 @@
+Application: DevOps Hands-on Demo
+Owner: Haris Muhammad Imran
+Purpose: Sample application file used to demonstrate the Git workflow
+         (init -> add -> commit -> push) for Activity 1 of the DevOps assignment.
+
+Tech stack (placeholder):
+- Language: Bash / Shell
+- Platform: Linux + Git Bash on Windows
+- Source control: Git + GitHub
