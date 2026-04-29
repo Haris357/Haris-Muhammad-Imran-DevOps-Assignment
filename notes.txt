@@ -14,3 +14,9 @@ Key takeaways:
 - Every commit captures a snapshot of the working tree.
 - "git log" shows the full commit history that the assignment requires.
 - A clean working tree (nothing to commit) means everything is safely tracked.
+
+Update (second commit):
+- Verified workflow end-to-end: edit -> add -> commit -> push.
+- Confirmed that GitHub displays both commits in chronological order.
+- Reminder: always pull before pushing when collaborating with others
+  (git pull --rebase origin main).
